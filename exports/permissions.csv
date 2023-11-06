@@ -1,0 +1,9 @@
+permission_id,name,description
+45,post-read,read access for only published posts and versions
+46,content-read,read access for all posts and versions
+47,content-write,write access to all posts and versions
+48,comments-read,read access for comments
+49,comments-write,write access for comments
+50,users-read,read access to total list of users & members
+51,users-write,write access to users & members; e.g. add new users & edit user details
+52,publish,permission to publish post

@@ -1,0 +1,7 @@
+role_id,name,description
+31,admin,full access
+32,content manager,schedueles posts & works to ensure posts are out on time
+33,editor,reviews and publishes posts
+34,author,write posts
+35,viewer,employees with only read permissions
+36,developer,"non-admin roles with lots of access for debugging, support, and fixing issues"
